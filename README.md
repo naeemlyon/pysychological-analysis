@@ -23,7 +23,6 @@ answers we suspect to pertain to the abnormal pattern
 
 5- Compare this periodicity to the one of a child showing abnormal patterns. Model and interpret the alternation between normal and abnormal pattern. 
 
-The goal for us is to identify your capacity of analysis on a new kind of problem, on a dataset that is similar to what we
-face!
+The goal is to identify the capacity of analysis on a new kind of problem, on a dataset that is similar to what we face!
 
 ==================================================
